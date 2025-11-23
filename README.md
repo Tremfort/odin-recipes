@@ -1,1 +1,4 @@
 # odin-recipes
+This project is a basic HTML project were I will put in practice some of the skills I learn so far in The Odin Project.
+Also, I want to say something for my future self:
+Hey, how you doing? I hope you're doing right. I know that maybe this project will look ugly or bad for someone with more experience in coding. I know that this is probably going to be full of mistakes and bad practices, but that's alright. This is the real beauty of learning something new, y'know? Reading this in the future is probably going to feel so nostalgic, because you will be remembering your first steps into this world. Not everything needs to be perfect, there's beauty in imperfect things. 
