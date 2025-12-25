@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    background-color: orange;
+    background-image: url(./images/life-is.png);
+    text-align: center;
+    font-size: 18px;
+}
+
+p {     
+    color: midnightblue;
+}
+
+h1 {
+    color: darkblue;
+}
+
+ul, li {
+    color: rgb(194, 0, 0);
+    list-style-position: inside;
+    padding-right: 50px;
+   
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: blueviolet;   
+}   
+
+.main {
+    background-color: lightsalmon;
+    width: 800px;
+    height: auto;
+    padding: 25px auto 10px auto;
+    border: 2px solid blue;
+    margin: 50px auto;  
+}
